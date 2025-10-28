@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8BFD,100:6C63FF&height=180&section=header&text=Prasad%20A%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=130&section=header&text=Prasad%20A%20|%20Backend%20Developer%20⚡&fontSize=30&fontColor=00FFFF&animation=twinkling" />
 </p>
 
 ---

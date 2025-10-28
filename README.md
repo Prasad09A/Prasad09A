@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=130&section=header&text=Prasad%20A%20|%20Amilkanthwar%20⚡&fontSize=30&fontColor=00FFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=header&text=Prasad%20Amilkanthwar%20👨‍💻&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
